@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="510" height="87" viewBox="0 0 510 87">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 70px;
+      }
+
+      .cls-2 {
+        text-anchor: middle;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: "Baskerville Old Face";
+      }
+
+      .cls-4 {
+        fill: #72825d;
+      }
+    </style>
+  </defs>
+  <text x="254" y="67" class="cls-1"><tspan x="254" class="cls-2"><tspan class="cls-3">P O <tspan class="cls-4">S A D I K E</tspan></tspan></tspan></text>
+</svg>

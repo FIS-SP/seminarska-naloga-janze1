@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1266" height="190" viewBox="0 0 1266 190">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 200px;
+      }
+
+      .cls-2 {
+        fill: #495140;
+        text-anchor: middle;
+        font-family: "AdobeHebrew-Bold";
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  <text x="627" y="162" class="cls-1"><tspan x="627" class="cls-2">S  A  D  I  K  E</tspan></text>
+</svg>
